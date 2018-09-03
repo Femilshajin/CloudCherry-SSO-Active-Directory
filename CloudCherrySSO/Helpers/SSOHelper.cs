@@ -17,7 +17,7 @@ namespace CloudCherrySSO.Helpers
 {
     public static class SSOHelper
     {
-        public static string webBaseURL = "https://cx.getcloudcherry.com/";//API base URL
+        public static string webBaseURL = "https://cx.getcloudcherry.com/";//Web base URL
         public static string LogFolder = "Logs";//Logs Folder Name
 
         public static async Task<string> GetSSOTokenURL(SSOSubUser subuser)
