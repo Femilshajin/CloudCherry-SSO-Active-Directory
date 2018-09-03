@@ -24,6 +24,8 @@ SSO works by building a information packet(JSON) with the authenticated user’s
 
 On Successful Authentication from your AD, you will be presented with a Web Page. By clicking on ***Login to CloudCherry*** SSOToken will be created and you would be redirected to CloudCherry Insight Centre along with SSOToken and account name ( "https://cx.getcloudcherry.com/#/login?sso=<accountName>&ssotoken=<token>").
 
+[More info here](https://github.com/getcloudcherry/CloudCherry-SSO-Active-Directory/blob/master/docs/ADFS-SSO.pdf)
+
 #### Where is the code for SSOToken Generation?
 
 You can find it [here](https://github.com/Femilshajin/CloudCherry-SSO-Active-Directory/blob/master/CloudCherrySSO/Helpers/SSOHelper.cs).
@@ -31,4 +33,3 @@ You can find it [here](https://github.com/Femilshajin/CloudCherry-SSO-Active-Dir
 #### How to use an On-Premise Identity Server and Connect to CloudCherry?
 
 It's almost as similar as previous steps, [this blog](http://work.haufegroup.io/haufe-adfs-identity-for-aspnet-login/) explains it much better.
-
