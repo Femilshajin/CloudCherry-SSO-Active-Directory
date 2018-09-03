@@ -1,0 +1,15 @@
+03-09-2018 04:26:15 PM: Checking status for femilMQqqbarKgyFiz7heetsIRm1XaxPE6gAnN5t2Rb4dA at https://api.getcloudcherry.com/
+03-09-2018 04:26:15 PM: User Not Available femilMQqqbarKgyFiz7heetsIRm1XaxPE6gAnN5t2Rb4dA
+03-09-2018 04:26:15 PM: Redirecting femil - MQqqbarKgyFiz7heetsIRm1XaxPE6gAnN5t2Rb4dA to CloudCherry
+03-09-2018 04:26:24 PM: Checking status for femilMQqqbarKgyFiz7heetsIRm1XaxPE6gAnN5t2Rb4dA at https://api.getcloudcherry.com/
+03-09-2018 04:26:24 PM: User Not Available femilMQqqbarKgyFiz7heetsIRm1XaxPE6gAnN5t2Rb4dA
+03-09-2018 04:26:24 PM: Redirecting femil - MQqqbarKgyFiz7heetsIRm1XaxPE6gAnN5t2Rb4dA to CloudCherry
+03-09-2018 04:34:37 PM: Redirecting femil - femilgetcloudcherrycom to CloudCherry
+03-09-2018 04:34:55 PM: Redirecting femil - femilgetcloudcherrycom to CloudCherry
+03-09-2018 04:35:19 PM: Redirecting femil - femilgetcloudcherrycom to CloudCherry
+03-09-2018 04:36:35 PM: Redirecting femil - femilgetcloudcherrycom to CloudCherry
+03-09-2018 04:38:18 PM: Redirecting femil - femilgetcloudcherrycom to CloudCherry
+03-09-2018 04:39:22 PM: Redirecting femil - femilgetcloudcherrycom to CloudCherry
+03-09-2018 04:59:34 PM: Checking status for femil at https://api.getcloudcherry.com/
+03-09-2018 04:59:46 PM: 4.7.2 or later
+03-09-2018 05:02:26 PM: Redirecting femil - femilgetcloudcherrycom to CloudCherry
