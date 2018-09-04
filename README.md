@@ -22,7 +22,7 @@ SSO works by building a information packet(JSON) with the authenticated user’s
 
 [API Tech whitepaper - Page 29](https://contentcdn.azureedge.net/assets/CherryAPITechnologyWhitepaper.pdf) and [Sample code](https://www.getcloudcherry.com/api/) is here.
 
-On Successful Authentication from your AD, you will be presented with a Web Page. By clicking on ***Login to CloudCherry*** SSOToken will be created and you would be redirected to CloudCherry Insight Centre along with SSOToken and account name ( "https://cx.getcloudcherry.com/#/login?sso=<accountName>&ssotoken=<token>").
+On Successful Authentication from your AD, you will be presented with a Web Page. By clicking on ***Login to CloudCherry*** SSOToken will be created and you would be redirected to CloudCherry Insight Centre along with SSOToken and account name ("https://cx.getcloudcherry.com/#/login?sso=<accountName>&ssotoken=<token>").
 
 [More info here](https://github.com/getcloudcherry/CloudCherry-SSO-Active-Directory/blob/master/docs/ADFS-SSO.pdf)
 
