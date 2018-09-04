@@ -38,7 +38,7 @@ namespace CloudCherrySSO.Controllers
                     var subUser = new SSOSubUser
                     {
                         Userid = userId, // SSO user to login
-                        Role = null, //Default to Read Only
+                        Role = "ManagerReadOnly", //Manager Or ManagerReadOnly
                         Email = emailId,
                         TimeStamp = DateTime.UtcNow,
                         SSOKey = ssoKey,
