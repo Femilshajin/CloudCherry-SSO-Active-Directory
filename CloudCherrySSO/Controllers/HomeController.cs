@@ -32,7 +32,7 @@ namespace CloudCherrySSO.Controllers
                 var identity = (ClaimsIdentity)User.Identity;
                 if (identity != null)
                 {
-                    string userId = string.IsNullOrEmpty(identity.Name) ? null : Regex.Replace(identity.Name, @"[^0-9a-zA-Z]+", string.Empty); ;
+                    string userId = string.IsNullOrEmpty(identity.Name) ? null : Regex.Replace(identity.Name.Split('@').FirstOrDefault(), @"[^0-9a-zA-Z]+", string.Empty); ;
                     string emailId = identity.Name;
 
                     var subUser = new SSOSubUser
